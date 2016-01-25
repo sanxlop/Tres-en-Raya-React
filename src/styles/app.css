@@ -1,0 +1,6 @@
+.clickable {
+	cursor: pointer;
+}
+.no_clickable {
+	cursor: not-allowed;
+}
